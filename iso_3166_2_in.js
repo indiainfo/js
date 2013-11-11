@@ -107,7 +107,10 @@ var iso_3166_2_in = {
 };
 
 
-var iso_3166_2_code=["IN","IN-JK","IN-HP","IN-PB","IN-CH","IN-UT","IN-HR","IN-DL","IN-RJ","IN-UP","IN-BR","IN-SK","IN-AR","IN-NL","IN-MN","IN-MZ","IN-TR","IN-ML","IN-AS","IN-WB","IN-JH","IN-OR","IN-CT","IN-MP","IN-GJ","IN-DD","IN-DN","IN-MH","IN-AP","IN-KA","IN-GA","IN-LD","IN-KL","IN-TN","IN-PY","IN-AN"];
+var iso_3166_2_code=["IN","IN-JK","IN-HP","IN-PB","IN-CH","IN-UT","IN-HR","IN-DL","IN-RJ","IN-UP",
+                     "IN-BR","IN-SK","IN-AR","IN-NL","IN-MN","IN-MZ","IN-TR","IN-ML","IN-AS","IN-WB",
+                     "IN-JH","IN-OR","IN-CT","IN-MP","IN-GJ","IN-DD","IN-DN","IN-MH","IN-AP","IN-KA",
+                     "IN-GA","IN-LD","IN-KL","IN-TN","IN-PY","IN-AN"];
 
 var state_names= [
  "India"

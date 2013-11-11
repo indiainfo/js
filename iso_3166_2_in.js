@@ -113,7 +113,7 @@ var iso_3166_2_code=["IN","IN-JK","IN-HP","IN-PB","IN-CH","IN-UT","IN-HR","IN-DL
                      "IN-GA","IN-LD","IN-KL","IN-TN","IN-PY","IN-AN"];
 
 var state_names= [
- "India"
+ "India",
  "Jammu & Kashmir",
  "Himachal Pradesh",
  "Punjab",
